@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
+
+# Data & results (keep big files out of git), but allow placeholders
+data/
+!data/.gitkeep
+results/
+!results/.gitkeep
+
+# Common large/binary artifacts
+*.npy
+*.mat
+*.h5
+*.hdf5
+*.png
+*.pdf
+*.csv
+*.log
