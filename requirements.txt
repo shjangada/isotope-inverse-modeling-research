@@ -11,3 +11,5 @@ pyparsing==3.2.5
 python-dateutil==2.9.0.post0
 scipy==1.16.2
 six==1.17.0
+pandas
+scikit-learn
